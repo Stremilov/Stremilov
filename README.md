@@ -4,7 +4,7 @@
 - 🎓 18-летний бэкенд разработчик
 - 🌱 В поисках новых знаний и опыта
 - 💼 В настоящее время работаю над своими проектами и учусь в университете
-- 📫 Связаться со мной: [ваш email] или [ваш профиль в соцсетях]
+- 📫 Связаться со мной: lev.stremilov@gmail.com или @stremilovv
 
 ## Стек технологий
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -29,6 +29,6 @@
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваше_имя_пользователя&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Связаться со мной
-- Электронная почта: [ваш email]
-- LinkedIn: [ваш профиль в LinkedIn]
-- Twitter: [ваш профиль в Twitter]
+- Электронная почта: lev.stremilov@gmail.com
+- Telegram: @stremilovv
+- VK: https://vk.com/levstremilov
