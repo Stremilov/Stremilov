@@ -1,10 +1,10 @@
 # Hello, I'm Lev 👋
 
 ## 📌 About me
-- 🎓 18-летний бэкенд разработчик
-- 🌱 В поисках новых знаний и опыта
-- 💼 В настоящее время работаю над своими проектами и учусь в университете
-- 📫 Связаться со мной: lev.stremilov@gmail.com или @stremilovv
+- 🎓 18-year-old backend developer
+- 🌱 Seeking new knowledge and experience
+- 💼 Currently working on personal projects and studying at university
+- 📫 Contact me: lev.stremilov@gmail.com or @stremilovv
 
 ## 🖥 Technology Stack
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
