@@ -1,16 +1,34 @@
-### Hi there 👋
+# Привет, я Лев 👋
 
-<!--
-**Stremilov/Stremilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+- 🎓 18-летний бэкенд разработчик
+- 🌱 В поисках новых знаний и опыта
+- 💼 В настоящее время работаю над своими проектами и учусь в университете
+- 📫 Связаться со мной: [ваш email] или [ваш профиль в соцсетях]
 
-Here are some ideas to get you started:
+## Стек технологий
+- 💻 Java
+- 🐍 Python
+- 🗃️ PostgreSQL
+- 🍃 MongoDB
+- 🔧 GitLab
+- 📝 SQL
+- 🐳 Docker
+- 🌐 Nginx
+- 🌿 Flask
+- 🚀 FastAPI
+- 🌈 HTML
+- 🎨 CSS
+- 🌟 JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои проекты
+- [Проект 1](ссылка): краткое описание проекта
+- [Проект 2](ссылка): краткое описание проекта
+
+## Статистика GitHub
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваше_имя_пользователя&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Связаться со мной
+- Электронная почта: [ваш email]
+- LinkedIn: [ваш профиль в LinkedIn]
+- Twitter: [ваш профиль в Twitter]
