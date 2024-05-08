@@ -29,6 +29,6 @@
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваше_имя_пользователя&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Связаться со мной
-- Электронная почта: lev.stremilov@gmail.com
-- Telegram: @stremilovv
-- VK: https://vk.com/levstremilov
+[![Email](https://img.shields.io/badge/Email-lev.stremilov%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lev.stremilov@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%40stremilovv-blue?style=for-the-badge&logo=telegram)](https://t.me/stremilovv)
+[![VK](https://img.shields.io/badge/VK-%40levstremilov-9cf?style=for-the-badge&logo=vk)](https://vk.com/levstremilov)
