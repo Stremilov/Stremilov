@@ -26,7 +26,7 @@
 - [Проект 2](ссылка): краткое описание проекта
 
 ## Статистика GitHub
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваше_имя_пользователя&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Stremilov&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Связаться со мной
 [![Email](https://img.shields.io/badge/Email-lev.stremilov%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lev.stremilov@gmail.com)
