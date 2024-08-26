@@ -1,7 +1,7 @@
 # Hello, I'm Lev 👋
 
 ## 📌 About me
-- 🎓 18-year-old backend developer
+- 🎓 19-year-old backend developer
 - 🌱 Seeking new knowledge and experience
 - 💼 Currently working on personal projects and studying at university
 - 📫 Contact me: lev.stremilov@gmail.com or @stremilovv
