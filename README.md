@@ -32,7 +32,6 @@
 
 ## 📈 GitHub Stats
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Stremilov&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Recent Commits](https://github-readme-stats.vercel.app/api/wakatime?username=Stremilov&theme=radical)
 
 ## 🖼 Contacts
 [![Email](https://img.shields.io/badge/Email-lev.stremilov%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lev.stremilov@gmail.com)
