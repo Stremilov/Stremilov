@@ -1,4 +1,5 @@
 # Hello, I'm Lev 👋
+<img src="https://komarev.com/ghpvc/?username=stremilov&style=flat-square&color=blue" alt=""/>
 
 ## 📌 About me
 - 🎓 19-year-old backend developer
