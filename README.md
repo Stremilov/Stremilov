@@ -26,7 +26,7 @@
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badgelogo=sqlitelogoColor=white)]([https://www.mongodb.com/](https://www.sqlite.org/))
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badgelogo=sqlitelogoColor=white)]((https://www.sqlite.org/))
 
 
 ## 🛠 Tools and Technologies
