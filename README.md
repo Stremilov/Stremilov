@@ -25,6 +25,50 @@
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 
+▎Языки программирования
+
+• ![Java](https://www.java.com/)
+
+• ![Go](https://golang.org/)
+
+• ![Python](https://www.python.org/)
+
+• ![SQL](https://en.wikipedia.org/wiki/SQL)
+
+▎Фреймворки
+
+• ![Spring](https://spring.io/)
+
+• ![Flask](https://flask.palletsprojects.com/)
+
+• ![FastAPI](https://fastapi.tiangolo.com/)
+
+• ![React](https://reactjs.org/)
+
+▎Базы данных
+
+• ![PostgreSQL](https://www.postgresql.org/)
+
+• ![MongoDB](https://www.mongodb.com/)
+
+• ![SQLAlchemy](https://www.sqlalchemy.org/)
+
+▎Инструменты и технологии
+
+• ![Docker](https://www.docker.com/)
+
+• ![Nginx](https://www.nginx.com/)
+
+• ![GitLab](https://about.gitlab.com/)
+
+▎Веб-технологии
+
+• ![HTML](https://html.spec.whatwg.org/)
+
+• ![CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+  
+
+
 
 ## 🔧 Development tools
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
