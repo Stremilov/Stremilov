@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=stremilov&style=flat-square&color=blue" alt=""/>
 
 ## 📌 About me
-- 🎓 19-year-old backend developer
+- 🎓 20-year-old backend developer
 - 🌱 Seeking new knowledge and experience
 - 💼 Currently working on personal projects and studying at university
 - 📫 Contact me: lev.stremilov@gmail.com or @stremilovv
